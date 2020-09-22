@@ -1,0 +1,31 @@
+.img-container{
+	display: flex;
+	justify-content: center;
+	
+
+
+}
+.product_card{
+	border-radius: 1rem;
+	background-color: #f8f9fa;
+	box-sizing: border-box;
+	border: 1px ;
+
+	transition:  1s all ;
+	cursor: pointer;
+}
+.product_card:hover{
+	transform: skew(1.1);
+
+}
+.modal_expand{
+	font-size: 1.2em;
+}
+.modal_expand:hover{
+	color:rgba(0,0,0,.5);
+}
+
+.papa{box-sizing: border-box;
+
+border-radius: 2rem!important;
+}

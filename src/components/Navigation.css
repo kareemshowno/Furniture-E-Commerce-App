@@ -1,0 +1,20 @@
+nav a:hover {
+	text-decoration: none;
+	color:grey;
+}
+nav a.active{
+	color: white;
+}
+nav a{
+	position: relative;
+	color:#adb5bd;
+	margin-left: 1rem;
+}
+.navbar-nav{
+	justify-content: flex-end;
+}
+@media only screen and (max-width: 572px) {
+	nav a{
+		margin-top: 1rem;
+	}
+}

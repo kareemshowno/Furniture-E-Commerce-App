@@ -1,0 +1,14 @@
+.banner{min-height: calc(100vh - 56px)!important;
+	background:linear-gradient(0deg, rgba(0,0,0,.3), rgba(0,0,0,.3)), url(./banner-home.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.btn_{background-color: #48cae4;
+color:#fff;
+}
+.btn_:hover{background-color: transparent;
+color:#48cae4;
+box-sizing: border-box;
+border: 1px groove #fff}

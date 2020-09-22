@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Furniture-E-Commerce-App/static/css/main.91e8f9e4.chunk.css",
+    "main.js": "/Furniture-E-Commerce-App/static/js/main.0f4fa916.chunk.js",
+    "main.js.map": "/Furniture-E-Commerce-App/static/js/main.0f4fa916.chunk.js.map",
+    "runtime-main.js": "/Furniture-E-Commerce-App/static/js/runtime-main.111ab755.js",
+    "runtime-main.js.map": "/Furniture-E-Commerce-App/static/js/runtime-main.111ab755.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Furniture-E-Commerce-App/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8c275ad1.chunk.js": "/Furniture-E-Commerce-App/static/js/2.8c275ad1.chunk.js",
+    "static/js/2.8c275ad1.chunk.js.map": "/Furniture-E-Commerce-App/static/js/2.8c275ad1.chunk.js.map",
+    "index.html": "/Furniture-E-Commerce-App/index.html",
+    "precache-manifest.0e6eeb57772ed591f77245f4004b188c.js": "/Furniture-E-Commerce-App/precache-manifest.0e6eeb57772ed591f77245f4004b188c.js",
+    "service-worker.js": "/Furniture-E-Commerce-App/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Furniture-E-Commerce-App/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.91e8f9e4.chunk.css.map": "/Furniture-E-Commerce-App/static/css/main.91e8f9e4.chunk.css.map",
+    "static/js/2.8c275ad1.chunk.js.LICENSE.txt": "/Furniture-E-Commerce-App/static/js/2.8c275ad1.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/Furniture-E-Commerce-App/static/media/banner-home.a3575759.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.111ab755.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.8c275ad1.chunk.js",
+    "static/css/main.91e8f9e4.chunk.css",
+    "static/js/main.0f4fa916.chunk.js"
+  ]
+}
